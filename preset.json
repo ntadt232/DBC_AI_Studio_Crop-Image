@@ -1,0 +1,21 @@
+{
+    "size_min": 3,
+    "size_max": 15,
+    "opacity_min": 0.5,
+    "opacity_max": 1.0,
+    "intensity_min": 150,
+    "intensity_max": 230,
+    "count_min": 1,
+    "count_max": 1,
+    "length_min": 100,
+    "length_max": 180,
+    "angle_min": 40,
+    "angle_max": 160,
+    "main_thickness_min": 1,
+    "main_thickness_max": 5,
+    "sub_branch_min": 1,
+    "sub_branch_max": 3,
+    "sub_branch_scale": 0.4,
+    "brush_type": 1,
+    "defect_mode": 1
+}
